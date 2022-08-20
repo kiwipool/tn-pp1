@@ -1,0 +1,8 @@
+ALIVE:
+https://raw.githubusercontent.com/kiwipool/tn-pp1/main/alive.json
+https://shorturl.at/adpqS
+
+
+KIWI:
+https://raw.githubusercontent.com/kiwipool/tn-pp1/main/kiwi.json
+https://shorturl.at/dkpU7
